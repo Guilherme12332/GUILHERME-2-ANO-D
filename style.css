@@ -1,0 +1,14 @@
+h1 color :limegreen;
+}
+h2 {color :red;
+}
+h3 {color:skyblue;
+}
+h1 {text-align: center;
+}
+h2 {text-align: right;
+}
+h3  {border-color: steelblue;
+border-style: solid;
+border-width: 5px;
+}
